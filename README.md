@@ -14,3 +14,8 @@
 ![Gambar1](gambar/pic6.png)
 
 ![Gambar1](gambar/pic7.png)
+
+## String Format
+![Gambar1](gambar/pic8.png)
+
+![Gambar1](gambar/pic9.png)
