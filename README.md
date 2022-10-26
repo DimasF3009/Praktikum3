@@ -11,3 +11,6 @@
 
 ## String Format
 #### String sendiri adalah potongan teks. Mereka dapat didefinisikan sebagai apa saja di antara tanda kutip. Berikut ini adalah contoh Python String Format.
+![Gambar1](gambar/pic6.png)
+
+![Gambar1](gambar/pic7.png)
