@@ -19,3 +19,9 @@
 ![Gambar1](gambar/pic8.png)
 
 ![Gambar1](gambar/pic9.png)
+
+# Latihan 2
+![Gambar1](gambar/pic10.png)
+
+![Gambar1](gambar/pic11.png)
+
