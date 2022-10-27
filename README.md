@@ -28,3 +28,8 @@
 # Latihan 3
 ![Gambar1](gambar/pic12.png)
 ![Gambar1](gambar/pic13.png)
+
+# Membuat rumus lingkaran dan flowchart
+![Gambar1](gambar/pic14.png)
+
+![Gambar1](gambar/pic15.png)
