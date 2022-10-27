@@ -26,4 +26,5 @@
 ![Gambar1](gambar/pic11.png)
 
 # Latihan 3
-
+![Gambar1](gambar/pic12.png)
+![Gambar1](gambar/pic13.png)
